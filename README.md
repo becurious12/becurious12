@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Week Planner using Frontend**
+- 🔭 I’m currently working on **Some projects using algorithms of Javascript and some games based on javascript and Week Planner using Frontend**
 
 - 🌱 I’m currently learning **MERN Stack**
 
