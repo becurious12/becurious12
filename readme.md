@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Beginner Friendly web Projects**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools currently learning:
 
