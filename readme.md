@@ -6,9 +6,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Week Planner using Frontend**
-
+- 🌱 I’m currently exploring the field of data science using pyhton.
 - 🌱 I’m currently learning **MERN Stack**
-
 - 👯 I’m looking to collaborate on **OpenSource Beginner Friendly web Projects**
 
 
