@@ -38,8 +38,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/believeinaditya12/github-readme-stats"><img alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=believeinaditya12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/believeinaditya12/github-readme-stats"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=believeinaditya12&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/aditya1234/github-readme-stats"><img alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aditya1234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/aditya1234/github-readme-stats"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya1234&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 
@@ -47,8 +47,8 @@
 <br/>
 
 <p align="center">
-  <img src = "https://activity-graph.herokuapp.com/graph?username=believeinaditya12&theme=redical&hide_border=true&area=true" width = 800>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=believeinaditya12&theme=dark&hide_border=true" width = 400>
+  <img src = "https://activity-graph.herokuapp.com/graph?username=aditya1234&theme=redical&hide_border=true&area=true" width = 800>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=aditya1234&theme=dark&hide_border=true" width = 400>
   
  </p>
 
@@ -60,6 +60,6 @@
 ## ❤ Views and Followers
 
 <a href="https://github.com/Aditya/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=believeinaditya12">
+    <img src="https://komarev.com/ghpvc/?username=aditya1234">
 </a>
-<a href="https://github.com/believeinaditya12?tab=followers"><img src="https://img.shields.io/github/followers/believeinaditya12?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/aditya1234?tab=followers"><img src="https://img.shields.io/github/followers/aditya1234?label=Followers&style=social" alt="GitHub Badge"></a>
