@@ -1,12 +1,11 @@
 
 <h1 align="center">Hi, I'm Aditya</h1>
-<h3 align="center">I'm a Web Development Enthusiast from India.</h3>
+<h3 align="center">I'm a Web Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently exploring the field of data science using pyhton.
+- 🔭 I’m currently exploring the field of data science.
 - 🌱 I’m currently learning **MERN Stack**
-- 👯 I’m looking to collaborate on **OpenSource Beginner Friendly web Projects**
 
 
 ## 🚀 Languages and Tools currently learning:
@@ -37,8 +36,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/aditya1234/github-readme-stats"><img alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=funnybugs1234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/aditya1234/github-readme-stats"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnybugs1234&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/funnybugs1234/github-readme-stats"><img alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=funnybugs1234&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/funnybugs1234/github-readme-stats"><img alt="Aditya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funnybugs1234&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 
@@ -58,7 +57,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Aditya/github-profile-views-counter">
+<a href="https://github.com/funnybugs1234/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=funnybugs1234">
 </a>
-<a href="https://github.com/curiaditya?tab=followers"><img src="https://img.shields.io/github/followers/funnybugs1234?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/funnybugs1234?tab=followers"><img src="https://img.shields.io/github/followers/funnybugs1234?label=Followers&style=social" alt="GitHub Badge"></a>
